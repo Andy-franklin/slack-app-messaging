@@ -2,6 +2,12 @@
 
 This package provides the basic building blocks of slack responses for use with the Slack API.
 
+### Installation
+
+```bash
+composer require andy-franklin/slack-app-messaging
+```
+
 ### Building an interactive message
 https://api.slack.com/interactive-messages
 
