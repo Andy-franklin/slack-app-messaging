@@ -1,0 +1,21 @@
+{
+    "name": "andy-franklin/slack-app-messaging",
+    "description": "A package to allow quick building of messages and dialogs for use with the Slack api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy Franklin",
+            "email": "andy@andyfranklin.co.uk"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "guzzlehttp/guzzle": "^6",
+        "jms/serializer": "^1.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "AndyFranklin\\SlackAppMessaging\\": "src/"
+        }
+    }
+}
