@@ -1,6 +1,6 @@
 <?php
 
-namespace App\BotResponders\Slack;
+namespace AndyFranklin\SlackAppMessaging;
 
 class SlackResponse
 {
